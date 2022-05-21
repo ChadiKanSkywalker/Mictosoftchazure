@@ -1,2 +1,2 @@
-# Mictosoftchazure
+# Microsoftchazure
 \sh.zzzzzzzzzzzzzzzzz.sh/
